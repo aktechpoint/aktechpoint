@@ -82,18 +82,10 @@ Here are some ideas to get you started:
 ![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
 
 #### 🧪 Java for Big Data
-
-- **Apache Hadoop** – Core of distributed storage & MapReduce processing, written in Java. Enables scalable storage (HDFS) and batch computation across large clusters. :contentReference[oaicite:1]{index=1}  
-- **Apache Spark (Java API)** – In-memory, high-performance engine for batch & streaming; rich Java APIs including Spark SQL, MLlib, Streaming, GraphX. :contentReference[oaicite:2]{index=2}  
-- **Apache Hive** – SQL-on-Hadoop (HiveQL) that transforms queries into Java MapReduce jobs under the hood. Brings familiar SQL interface to distributed processing. :contentReference[oaicite:3]{index=3}  
-- **Apache Flink** – Real‑time and batch data processing framework in Java; ideal for low-latency, high-throughput stream analytics. :contentReference[oaicite:4]{index=4}  
-- **Apache Storm** – Framework for processing continuous real-time data streams; built in Java and used for event-driven analytics. :contentReference[oaicite:5]{index=5}  
-- **Apache Kafka** – Distributed streaming platform (event log storage & messaging); common for pipeline and ingestion logic in Java apps. :contentReference[oaicite:6]{index=6}  
-- **Apache Mahout** – Scalable machine learning library in Java, originally on Hadoop and now optimized for Spark backends. :contentReference[oaicite:7]{index=7}  
-- **Apache NiFi** – Java-based data ingestion and flow orchestration engine. Supports routing, transformation, schema management, clustering. :contentReference[oaicite:8]{index=8}  
-- **Apache Druid** – High-performance, column‑oriented analytics store in Java. Supports real‑time ingestion and low‑latency queries (used in BI/OLAP). :contentReference[oaicite:9]{index=9}  
-- **Apache Drill / Presto** – Interactive SQL query engines over big data (HDFS, HBase, cloud storage), with Java implementation. :contentReference[oaicite:10]{index=10}  
-- **Apache SAMOA** – Java-based platform for distributed machine learning on data streams supporting Flink, Storm, Samza. :contentReference[oaicite:11]{index=11}  
+![Hadoop](https://img.shields.io/badge/-Hadoop-66CCFF?style=flat&logo=apachehadoop&logoColor=white)
+![Apache Spark](https://img.shields.io/badge/-Spark-E25A1C?style=flat&logo=apache-spark&logoColor=white)
+![Flink](https://img.shields.io/badge/-Flink-0099D7?style=flat&logo=apacheflink&logoColor=white)
+![Kafka](https://img.shields.io/badge/-Kafka-231F20?style=flat&logo=apachekafka&logoColor=white)
 
 #### ☁️ Multi-Cloud Platforms
 - **AWS**:  
