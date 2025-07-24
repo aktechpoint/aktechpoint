@@ -35,6 +35,10 @@ Here are some ideas to get you started:
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
 ![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=c-sharp&logoColor=white)
+#### 🧪 Backend & Frameworks
+![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat&logo=go&logoColor=white)
+![Gin](https://img.shields.io/badge/-Gin-black?style=flat&logo=go&logoColor=white)
+![Echo](https://img.shields.io/badge/-Echo-13263C?style=flat&logo=go&logoColor=white)
 
 #### 🌐 Frontend
 ![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat&logo=angular&logoColor=white)
