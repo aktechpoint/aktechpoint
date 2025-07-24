@@ -50,6 +50,7 @@ Here are some ideas to get you started:
 ![.NET](https://img.shields.io/badge/-.NET-512BD4?style=flat&logo=dotnet&logoColor=white)
 
 #### 💾 Databases
+![Oracle](https://img.shields.io/badge/-Oracle-F80000?style=flat&logo=oracle&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
@@ -66,10 +67,55 @@ Here are some ideas to get you started:
 ![SonarQube](https://img.shields.io/badge/-SonarQube-4E9BCD?style=flat&logo=sonarqube&logoColor=white)
 ![Nexus](https://img.shields.io/badge/-Nexus-000000?style=flat&logo=sonatype&logoColor=white)
 
+### 📊 Data Science & Analytics
+![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C?style=flat&logo=plotly&logoColor=white)
+![Seaborn](https://img.shields.io/badge/-Seaborn-0E4D92?style=flat&logo=python&logoColor=white)
+![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
+
+### 🤖 AI / Machine Learning / Deep Learning
+![Scikit-Learn](https://img.shields.io/badge/-Scikit--Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/-Keras-D00000?style=flat&logo=keras&logoColor=white)
+![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
+
+#### 🧪 Java for Big Data
+
+- **Apache Hadoop** – Core of distributed storage & MapReduce processing, written in Java. Enables scalable storage (HDFS) and batch computation across large clusters. :contentReference[oaicite:1]{index=1}  
+- **Apache Spark (Java API)** – In-memory, high-performance engine for batch & streaming; rich Java APIs including Spark SQL, MLlib, Streaming, GraphX. :contentReference[oaicite:2]{index=2}  
+- **Apache Hive** – SQL-on-Hadoop (HiveQL) that transforms queries into Java MapReduce jobs under the hood. Brings familiar SQL interface to distributed processing. :contentReference[oaicite:3]{index=3}  
+- **Apache Flink** – Real‑time and batch data processing framework in Java; ideal for low-latency, high-throughput stream analytics. :contentReference[oaicite:4]{index=4}  
+- **Apache Storm** – Framework for processing continuous real-time data streams; built in Java and used for event-driven analytics. :contentReference[oaicite:5]{index=5}  
+- **Apache Kafka** – Distributed streaming platform (event log storage & messaging); common for pipeline and ingestion logic in Java apps. :contentReference[oaicite:6]{index=6}  
+- **Apache Mahout** – Scalable machine learning library in Java, originally on Hadoop and now optimized for Spark backends. :contentReference[oaicite:7]{index=7}  
+- **Apache NiFi** – Java-based data ingestion and flow orchestration engine. Supports routing, transformation, schema management, clustering. :contentReference[oaicite:8]{index=8}  
+- **Apache Druid** – High-performance, column‑oriented analytics store in Java. Supports real‑time ingestion and low‑latency queries (used in BI/OLAP). :contentReference[oaicite:9]{index=9}  
+- **Apache Drill / Presto** – Interactive SQL query engines over big data (HDFS, HBase, cloud storage), with Java implementation. :contentReference[oaicite:10]{index=10}  
+- **Apache SAMOA** – Java-based platform for distributed machine learning on data streams supporting Flink, Storm, Samza. :contentReference[oaicite:11]{index=11}  
+
 #### ☁️ Multi-Cloud Platforms
-- **AWS**: EC2, S3, Lambda, RDS, CloudWatch, IAM, EKS
-- **GCP**: Compute Engine, Cloud Functions, GKE, Cloud Build
-- **Azure**: Azure VMs, AKS, Blob Storage, Azure DevOps
+- **AWS**:  
+  EC2, S3, Lambda, RDS, DynamoDB, CloudFront, CloudWatch, IAM,  
+  EKS, ECS, ELB, Route 53, VPC, SNS, SQS, CloudTrail,  
+  CloudFormation, CodeCommit, CodeBuild, CodeDeploy, CodePipeline,  
+  Cognito, API Gateway, Step Functions, Kinesis, Athena,  
+  Redshift, Glue, SageMaker, App Runner, Elastic Beanstalk,  
+  Secrets Manager, Systems Manager (SSM), Organizations, Control Tower,  
+  Trusted Advisor, Inspector, GuardDuty, Macie, WAF, Shield
+
+- **GCP**:  
+  Compute Engine, Cloud Functions, GKE, Cloud Build, Cloud Run,  
+  Cloud SQL, BigQuery, Pub/Sub, Cloud Storage, IAM,  
+  VPC, Cloud Monitoring, Cloud Scheduler, Dataflow
+
+- **Azure**:  
+  Azure VMs, AKS, Blob Storage, Azure DevOps,  
+  App Services, Azure Functions, Cosmos DB, Azure SQL,  
+  Azure Monitor, Virtual Network, API Management, Key Vault,  
+  Azure AD, Logic Apps, Azure Firewall
+
 
 #### 🧩 Servers & OS
 - Web Servers: **Nginx**, **Apache**, **IIS**
