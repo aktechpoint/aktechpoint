@@ -134,17 +134,11 @@ Here are some ideas to get you started:
 ---
 
 ### 📊 GitHub Stats
-
 <p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=aktechpoint&show_icons=true&theme=radical&cache_seconds=1800" 
-    alt="GitHub Stats" height="180"
-  />
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=aktechpoint&layout=compact&theme=radical&cache_seconds=1800"
-    alt="Top Languages" height="180"
-  />
+  <img src="https://github-readme-stats.vercel.app/api?username=aktechpoint&show_icons=true&theme=radical" alt="GitHub Stats" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aktechpoint&layout=compact&theme=radical" alt="Top Languages" height="180" />
 </p>
+
 
 ---
 
