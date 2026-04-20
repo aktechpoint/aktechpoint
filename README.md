@@ -139,16 +139,69 @@ Here are some ideas to get you started:
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aktechpoint&layout=compact&theme=radical" alt="Top Languages" height="180" />
 </p>
 
+## 📊 GitHub Analytics
+
+<p align="center">
+
+  <!-- GitHub Stats (Alternative + Stable) -->
+  <img src="https://github-readme-stats.vercel.app/api?username=aktechpoint&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" height="180"/>
+
+  <!-- Streak Stats -->
+  <img src="https://streak-stats.demolab.com?user=aktechpoint&theme=tokyonight&hide_border=true" height="180"/>
+
+</p>
+
+<p align="center">
+
+  <!-- Top Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aktechpoint&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
+
+  <!-- Activity Graph -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aktechpoint&theme=tokyo-night&hide_border=true" height="180"/>
+
+</p>
 
 ---
 
-### 📫 Let's Connect
-- 💼 [LinkedIn](https://)
-- 🌐 [Portfolio](https://yourwebsite.com)
-- ✉️ Email: aktechpoint62@gmail.com
-- 📞 Phone: +91-7739441777,
+## 🧾 Contribution Insights
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aktechpoint&theme=tokyonight"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=aktechpoint&theme=tokyonight"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=aktechpoint&theme=tokyonight"/>
+</p>
 
 ---
 
-> 🚀 _“Learn it, Automate it, Share it.”_
+## 🔥 Productivity Stats
 
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=aktechpoint&theme=tokyonight"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=aktechpoint&theme=tokyonight&utcOffset=5.5"/>
+</p>
+
+
+---
+
+## 📫 Connect With Me
+- 💼 LinkedIn: https://www.linkedin.com/in/abhishek-kumar-6b8380279  
+- 🌐 YouTube: https://www.youtube.com/@Abhishekit62  
+- 📢 WhatsApp Channel: https://whatsapp.com/channel/0029Vb7FHmSAjPXRtaK7yc3i  
+- ✉️ Email: abhishek_ps2602mth02@iitp.ac.in  
+- 📞 Phone: +91-7739441777  
+
+---
+
+## 🚀 Community & Learning
+👉 Join my WhatsApp Channel for:
+- DevOps Notes & Projects  
+- Cloud Tutorials  
+- Interview Questions  
+- Live Training Updates  
+
+---
+
+> 🚀 *"Learn it, Automate it, Share it."*
