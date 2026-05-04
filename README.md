@@ -78,12 +78,12 @@ Here are some ideas to get you started:
 ![Seaborn](https://img.shields.io/badge/-Seaborn-0E4D92?style=flat&logo=python&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)-->
 
-### 🤖 AI / Machine Learning / Deep Learning
+<!--### 🤖 AI / Machine Learning / Deep Learning
 ![Scikit-Learn](https://img.shields.io/badge/-Scikit--Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
 ![Keras](https://img.shields.io/badge/-Keras-D00000?style=flat&logo=keras&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
-![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
+![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)-->
 
 #### 🧪 Java for Big Data
 ![Hadoop](https://img.shields.io/badge/-Hadoop-66CCFF?style=flat&logo=apachehadoop&logoColor=white)
