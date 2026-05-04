@@ -71,12 +71,12 @@ Here are some ideas to get you started:
 ![SonarQube](https://img.shields.io/badge/-SonarQube-4E9BCD?style=flat&logo=sonarqube&logoColor=white)
 ![Nexus](https://img.shields.io/badge/-Nexus-000000?style=flat&logo=sonatype&logoColor=white)
 
-### 📊 Data Science & Analytics
+<!--### 📊 Data Science & Analytics
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C?style=flat&logo=plotly&logoColor=white)
 ![Seaborn](https://img.shields.io/badge/-Seaborn-0E4D92?style=flat&logo=python&logoColor=white)
-![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
+![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)-->
 
 ### 🤖 AI / Machine Learning / Deep Learning
 ![Scikit-Learn](https://img.shields.io/badge/-Scikit--Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
